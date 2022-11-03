@@ -61,6 +61,6 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
  - Nommage, clean code, logique: 2pts 
 
 
-**Warning**
-Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
+> **Warning**
+> Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
 
