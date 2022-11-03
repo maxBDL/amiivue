@@ -60,7 +60,7 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
  - Affichage des données de l'api: 3pts 
  - Nommage, clean code, logique: 2pts 
 
-```
+
 **Warning**
 Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
-```
+
