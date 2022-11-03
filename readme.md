@@ -62,5 +62,5 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
 
 
 > **Warning**
-> Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
+> Il vaut mieux un petit projet qui build qu'un gros projet qui ne compile pas
 
