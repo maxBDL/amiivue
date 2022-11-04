@@ -1,4 +1,3 @@
-
 # Vue3 - Evaluation - Ynov Lyon
 
   
@@ -60,7 +59,13 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
  - Affichage des données de l'api: 3pts 
  - Nommage, clean code, logique: 2pts 
 
+**Rendu**
+Si vous êtes à l'aise avec git: l'adresse du repo sous cette forme **nom-prenom-vue3**.git 
+Sinon un zip (sans node_modules)
+Le tout à mon adresse remi.enguehard@ynov.com ou via moodle
+Heure limite: **13h**
 
-> **Warning**
-> Il vaut mieux un petit projet qui build qu'un gros projet qui ne compile pas
-
+```
+**Warning**
+Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
+```
